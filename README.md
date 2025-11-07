@@ -40,7 +40,7 @@ Financial institutions require fast, accurate, and justifiable credit decisions.
 This project tackles three essential challenges:
 
 1. Predict whether a credit card application should be approved using machine learning
-2. Identify applicants’ risk profiles through analytical insights and vintage-style behavior trends
+2. Identify applicants’ risk profiles through analytical insights 
 3. Strengthen fairness and transparency with Explainable AI to ensure every decision can be interpreted
 
 This project demonstrates data-driven reasoning and ethical AI principles.
