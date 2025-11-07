@@ -1,5 +1,7 @@
 # Credit Card Approval Prediction & Explainability
 
+https://www.kaggle.com/code/shravyakorivi/credit-card-approval-prediction-using-ml/edit
+
 ## Project Overview
 
 This project explores the development of an intelligent and transparent credit approval system using machine learning and Explainable AI (XAI). With the rapid digitization of financial services, banks and credit providers process thousands of applications daily — making automation essential. However, automation must go hand-in-hand with trust and fairness.
