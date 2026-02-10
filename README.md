@@ -1,6 +1,5 @@
 # Credit Card Approval Prediction & Explainability
 
-https://www.kaggle.com/code/shravyakorivi/credit-card-approval-prediction-using-ml/edit
 
 ## Project Overview
 
